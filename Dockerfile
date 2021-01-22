@@ -1,5 +1,5 @@
-FROM debian:jessie
-MAINTAINER Francois COJEAN <francois.cojean@gmail.com>
+FROM debian:stretch
+MAINTAINER Steven Cacner <cacman14@gmail.com>
 
 ENV REFRESHED_AT 2016-06-05
 
